@@ -43,4 +43,7 @@ import { useState } from "react";
 //   );
 // }
 
-// export default Form;
+function Form(params:any) {
+  return (<><div>awesome-dot</div></>)
+}
+export default Form;
